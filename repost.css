@@ -1,0 +1,80 @@
+
+
+#repost_leftMenu{
+
+float: left;
+width: 250px;
+
+
+}
+
+#repost_leftMenu h2{
+margin: 0px;
+padding: 0px;
+
+}
+
+
+#repost_container{
+
+float: right;
+
+width: 700px;
+
+}
+
+#repost_List{
+
+
+width: 100%;
+
+}
+
+.repost_item{
+
+padding: 3px;
+border-bottom: 1px solid #666;
+background-color:#f6f6f6;
+}
+
+.repost_item:hover{
+
+background-color:#fff;
+cursor:pointer;
+
+}
+
+.repost_read{
+
+background-color:#e8e8e8;
+color:#838383;
+
+}
+
+
+.repost_item h3{
+margin-top:5px;
+margin-bottom:0px;
+}
+
+.repost_item_actions {
+float: right;
+}
+
+.repost_item_meta{
+
+	font-size:10px;
+
+
+}
+
+.repost_item_source{
+	font-weight:bold;
+
+}
+
+.repost_item_content{
+display:block;
+clear:both;
+margin-top:5px;
+}

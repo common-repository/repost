@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RePost\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-06-06 20:58-0300\n"
+"PO-Revision-Date: 2008-06-06 20:59-0300\n"
+"Last-Translator: Leo Germani <leogermani@gmail.com>\n"
+"Language-Team: leogermani\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /var/www/redemoc/blogs/wp-content/plugins/repost\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: repost.php:80
+#: repost.php:121
+msgid "Repost Settings"
+msgstr "Configurações do Repost"
+
+#: repost.php:80
+#: repost.php:81
+msgid "Repost"
+msgstr "Repost"
+
+#: repost.php:111
+msgid "Post originally published in #LINK# on #DATE#"
+msgstr "Artigo originalmente publicado no blog #LINK# em #DATE#"
+
+#: repost.php:123
+msgid "Republish Content!"
+msgstr "Republicar Artigos!"
+
+#: repost.php:129
+msgid "Current Subscribed Sources"
+msgstr "Fontes Assinadas atualmente"
+
+#: repost.php:135
+msgid "Source Name"
+msgstr "Nome da Fonte"
+
+#: repost.php:136
+msgid "Type"
+msgstr "Tipo"
+
+#: repost.php:148
+#: repost.php:266
+msgid "Community Blog"
+msgstr "Blog da Comunidade"
+
+#: repost.php:148
+#: repost.php:266
+msgid "RSS Feed"
+msgstr "Feed RSS"
+
+#: repost.php:164
+msgid "Are you sure you want to unsubscribe from this sources?"
+msgstr "Tem certeza que deseja não assinar mais esta fonte?"
+
+#: repost.php:164
+msgid "Unsubscribe to Sources"
+msgstr "Remover da lista"
+
+#: repost.php:171
+msgid "Subscribe to a blog from the community"
+msgstr "Assinar um blog da comunidade"
+
+#: repost.php:194
+msgid "Subscribe to community blog"
+msgstr "Assinar o blog da comunidade"
+
+#: repost.php:199
+msgid "Subscribe to community blog is only possible with wordpress MU"
+msgstr "Assinar blogs da comunidade só é possível com Wordpress MU"
+
+#: repost.php:208
+msgid "Add this on the top of republished content"
+msgstr "Adicione esta nota no topo do conteúdo republicado"
+
+#: repost.php:213
+msgid "Auto clear cache table"
+msgstr "Limpar a tabela de cache automaticamente"
+
+#: repost.php:213
+msgid "Delete read posts from temporary table"
+msgstr "Apagar os artigos já lidos da tabela temporária"
+
+#: repost.php:214
+msgid "Every day"
+msgstr "Todos os dias"
+
+#: repost.php:215
+msgid "Every 10 days"
+msgstr "A cada 10 dias"
+
+#: repost.php:216
+msgid "Every 30 days"
+msgstr "A cada 30 dias"
+
+#: repost.php:217
+#: repost.php:224
+msgid "Never"
+msgstr "Nunca"
+
+#: repost.php:220
+msgid "Delete all posts, even unread, from temporary table after they've been there for"
+msgstr "Apagar todos os artigo, inclusive os não lidos, da tabela temporária depois que eles estiverem lá por mais de"
+
+#: repost.php:236
+msgid "days"
+msgstr "dias"
+
+#: repost.php:238
+msgid "Save Options"
+msgstr "Gravar Opções"
+
+#: repost_interface.php:61
+msgid "Are you sure you want to republish this post?"
+msgstr "Tem certeza que deseja republicar este artigo?"
+
+#: repost_interface.php:61
+msgid "Republish"
+msgstr "Republicar"
+
+#: repost_interface.php:63
+#: repost_interface.php:131
+msgid "Mark as Unread"
+msgstr "Marcar como não lido"
+
+#: repost_interface.php:65
+#: repost_interface.php:127
+msgid "Mark as Read"
+msgstr "Marcar como lido"
+
+#: repost_interface.php:167
+msgid "Republished"
+msgstr "Republicado"
+
+#: repost_interface.php:181
+msgid "Sources"
+msgstr "Fontes"
+
+#: repost_interface.php:183
+msgid "All sources"
+msgstr "Todas as fontes"
+
+#: repost_interface.php:193
+msgid "Manage sources"
+msgstr "Gerenciar Fontes"
+
+#: repost_interface.php:194
+msgid "Clear read posts now"
+msgstr "Apagar os artigos lidos agora"
+
